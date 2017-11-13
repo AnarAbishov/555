@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\Cinema_Full.exe.config
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\Cinema_Full.exe
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\Cinema_Full.pdb
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\obj\Debug\Cinema_Full.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\obj\Debug\Cinema_Full.Form1.resources
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\obj\Debug\Cinema_Full.Properties.Resources.resources
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\obj\Debug\Cinema_Full.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\obj\Debug\Cinema_Full.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\obj\Debug\Cinema_Full.exe
+C:\Users\Dell\Desktop\Cinema_Full\Cinema_Full\obj\Debug\Cinema_Full.pdb
